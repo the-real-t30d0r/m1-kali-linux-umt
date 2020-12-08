@@ -26,6 +26,7 @@ After installing it, open it and create a new VM Machine:
 - And you can choose as icon the kali linux one
 
 ![enter image description here](https://i.ibb.co/gJ0FdMy/Bildschirmfoto-2020-12-08-um-17-21-56.png)
+
 Go to the System Tab and choose the following Options:
 - Archictecture = x86_64
 - System = Standard PC (i440FX + PIIX, 1996)
