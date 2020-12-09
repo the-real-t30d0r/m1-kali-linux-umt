@@ -1,4 +1,4 @@
-# m1-kali-linux-umt
+# m1-kali-linux-umt - amd64 image
 Workaround for running Kali Linux on Apple M1 - 1. UPDATE (08.12.2020)
 
 **Installing Kali Linux (amd64 Image) on Apple M1 (tested with MacBook Pro)**
