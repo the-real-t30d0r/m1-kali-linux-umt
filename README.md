@@ -17,4 +17,4 @@ Tutorial by Teodor Cucu
 
 
 # I moved the tutorial on my github page:
-# https://teodorcucu.github.io/my-wiki/#/apple-m1
+# https://teodorcucu.net/my-wiki/#/apple-m1
