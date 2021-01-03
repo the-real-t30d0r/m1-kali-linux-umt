@@ -16,5 +16,5 @@ Tutorial by Teodor Cucu
 **(The GUI of Kali Linux is a bit laggy, but it works) If it's to laggy for you, install it without GUI**
 
 
-# I moved the tutorial on my github page:
-# https://teodorcucu.net/#/macos?id=installing-kali-linux
+# I moved the tutorial on my Blog:
+https://teodorcucu.net/posts/kalilinux-utm-macos-applem1/
